@@ -1,0 +1,31 @@
+.variable-meta-info{
+    margin:1rem;
+    padding-top: 2rem !important;
+}
+
+
+.varaible-heading{
+    margin-top: -1rem;   
+}
+
+
+.variable-meta-info h3 {
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.variable-meta-info p {
+    padding: 18px;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: inset 2px 2px #ccc;
+}
+
+.variable-meta-info table td{
+    padding:10px;
+}
+
+.variable-meta-info .WrappedLink .WrappedButton{
+    float: right;
+}
+

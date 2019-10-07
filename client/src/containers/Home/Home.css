@@ -1,0 +1,27 @@
+.add-variable-meta-button {
+    box-shadow: 3px 3px #547393;
+}
+
+.Header {
+    box-shadow: 3px 3px #ccc;
+    border-radius: 5px;
+    padding: 12px 0px 0px 12px;
+    display: flex;
+    align-items: center;
+}
+
+.Header .link-wrapper{
+    margin-left: auto;
+    margin-top: -15px; /* cover padding of header div to maintain center alignment */
+}
+
+.search-value{
+    width: 100%;
+    height: 40px;
+    border: 0;
+}
+
+.search-value:focus{
+    border:0;
+    outline-width: 0;
+}
