@@ -9,7 +9,7 @@ let userPassStr = "";
 if (DB_USERNAME !== "") {
     userPassStr = DB_USERNAME + ':' + DB_PASSWORD + '@';
 }
-const mongodburi = 'mongodb://' + userPassStr + DB_HOST + ':' + DB_PORT + '/' + DB_NAME;
+const mongodburi = "mongodb+srv://us1:ps1@cluster0-zvqpd.mongodb.net/admin?retryWrites=true&w=majority";
 
 module.exports = {
     jwtSecret: JWTSECRET,
