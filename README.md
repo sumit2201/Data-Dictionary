@@ -1,4 +1,4 @@
-# assesment
+
 1) Install mongo db  if not already install
 
 https://docs.mongodb.com/manual/installation/
