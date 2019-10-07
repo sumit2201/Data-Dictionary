@@ -29,7 +29,7 @@
 
 9) Navigate to root folder of repository and run
 
-cd client
+		cd client
 
 
 10) Inside client folder run npm install
